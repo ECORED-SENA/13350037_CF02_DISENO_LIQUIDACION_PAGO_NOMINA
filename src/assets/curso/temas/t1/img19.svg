@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70.679" height="66.58" viewBox="0 0 70.679 66.58">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="70.679" height="66.58" fill="none"/>
+    </clipPath>
+    <filter id="Path_1241856" x="0" y="0" width="70.679" height="66.58" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g id="Group_1215972" data-name="Group 1215972" transform="translate(9 9)">
+      <g id="Group_1215752" data-name="Group 1215752" transform="translate(0 0)">
+        <g transform="matrix(1, 0, 0, 1, -9, -9)" filter="url(#Path_1241856)">
+          <path id="Path_1241856-2" data-name="Path 1241856" d="M708.047,131.015l-13.971-2.82c-.118.087-.23.174-.348.261a24.287,24.287,0,1,1,7.007-7.728Z" transform="translate(-646.37 -75.37)" fill="#f9ebeb"/>
+        </g>
+        <path id="Path_1241857" data-name="Path 1241857" d="M671.81,88.871a24.288,24.288,0,0,1,35.147,31.867" transform="translate(-661.596 -84.372)" fill="none" stroke="#2d2b58" stroke-miterlimit="10" stroke-width="1.2"/>
+      </g>
+      <g id="Group_1215753" data-name="Group 1215753" transform="translate(6.586 13.518)">
+        <rect id="Rectangle_415623" data-name="Rectangle 415623" width="6.305" height="8.902" transform="translate(4.193 9.604)" fill="#d75a59"/>
+        <rect id="Rectangle_415624" data-name="Rectangle 415624" width="6.305" height="14.424" transform="translate(13.48 4.081)" fill="#60928b"/>
+        <rect id="Rectangle_415625" data-name="Rectangle 415625" width="6.305" height="18.505" transform="translate(23.096)" fill="#4b56dd"/>
+        <line id="Line_624" data-name="Line 624" x2="33.296" transform="translate(0 18.406)" fill="none" stroke="#2d2b58" stroke-miterlimit="10" stroke-width="1.2"/>
+      </g>
+    </g>
+  </g>
+</svg>
