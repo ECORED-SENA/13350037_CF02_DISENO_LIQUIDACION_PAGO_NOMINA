@@ -24,7 +24,7 @@
             .bloque-texto-g__img(
               :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t4/img2.png')})` }")
             .bloque-texto-g__texto.p-4
-              p La autorización debe realizarse conforme con los niveles de responsabilidad definidos por la organización. Es conveniente que el registro de novedades, la revisión de los cálculos, la aprobación y la ejecución del pago puedan ser verificadas por responsables diferentes, especialmente cuando el volumen de la nómina o la estructura organizacional lo permitan. Este control facilita identificar modificaciones no justificadas y conservar evidencia de quién revisó y aprobó cada etapa.
+              p La autorización debe realizarse conforme a los niveles de responsabilidad definidos por la organización. Es conveniente que el registro de novedades, la revisión de los cálculos, la aprobación y la ejecución del pago puedan ser verificados por responsables diferentes, especialmente cuando el volumen de la nómina o la estructura organizacional lo permitan. Este control facilita identificar modificaciones no justificadas y conservar evidencia de quién revisó y aprobó cada etapa.
           p.mb-5 El valor aprobado debe coincidir con el monto que posteriormente se ordenará pagar. El Código Sustantivo del Trabajo establece que el salario en dinero debe pagarse por periodos iguales y vencidos, mientras que las horas extras y los recargos nocturnos deben pagarse con el salario del periodo en que se causaron o, a más tardar, con el salario del periodo siguiente (Código Sustantivo del Trabajo, 1950, art. 134). Los siguientes controles permiten comprobar la información antes de autorizar el pago definitivo:
           .bg___carrusel
             .px-5
@@ -209,7 +209,7 @@
                 .col-xl
                   p.mb-0 Los salarios, aportes a seguridad social, vacaciones y demás beneficios causados deben registrarse en el periodo en que el trabajador presta el servicio, aunque algunos valores se paguen posteriormente. De esta manera, la contabilidad refleja tanto el gasto del periodo como las obligaciones pendientes con trabajadores, administradoras y otros terceros (Decreto 2420 de 2015, Anexo 2).
               .box___style_1(data-aos="fade-left")
-                p.mb-0 En la práctica de nómina suele utilizarse la expresión #[b provisión] para referirse al reconocimiento periódico de vacaciones y prestaciones sociales causadas. Contablemente, estos valores corresponden a beneficios a los empleados y deben reconocerse conforme con el marco técnico aplicable a la entidad. Los beneficios de corto plazo comprenden, entre otros, salarios, aportes a seguridad social y ausencias remuneradas que se espera liquidar dentro de los doce meses siguientes. 
+                p.mb-0 En la práctica de nómina suele utilizarse la expresión #[b provisión] para referirse al reconocimiento periódico de vacaciones y prestaciones sociales causadas. Contablemente, estos valores corresponden a beneficios a los empleados y deben reconocerse conforme al marco técnico aplicable a la entidad. Los beneficios de corto plazo comprenden, entre otros, salarios, aportes a seguridad social y ausencias remuneradas que se espera liquidar dentro de los doce meses siguientes. 
           p.mb-5 Los siguientes conceptos permiten relacionar los valores liquidados con su reconocimiento general y con las obligaciones que deben registrarse: 
           .bg___slider.mb-5
             .px-5

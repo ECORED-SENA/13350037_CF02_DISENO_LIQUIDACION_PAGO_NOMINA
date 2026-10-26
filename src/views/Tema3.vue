@@ -401,8 +401,8 @@
               p.mb-3 Recibe los aportes a riesgos laborales mediante la PILA. Se deben confirmar la clase de riesgo, la tarifa y los días.
             .row(titulo="Caja de compensación familiar").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Recibe el aporte parafiscal mediante la PILA. Se deben verificar la base y la entidad de afiliación.
-            .row(titulo="").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 
+            .row(titulo="SENA").ajuste-cajaAcordion.ajuste-vineta
+              p.mb-3 Recibe el aporte parafiscal mediante la PILA cuando exista obligación. Se deben revisar la base y la exoneración aplicable.
       .row.align-items-center.mb-5
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
