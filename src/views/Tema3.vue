@@ -406,8 +406,6 @@
       .row.align-items-center.mb-5
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
-            .row(titulo="SENA").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Recibe el aporte parafiscal mediante la PILA cuando exista obligación. Se deben revisar la base y la exoneración aplicable.
             .row(titulo="ICBF").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Recibe el aporte parafiscal mediante la PILA cuando exista obligación. Se deben revisar la base y la exoneración aplicable.
             .row(titulo="DIAN").ajuste-cajaAcordion.ajuste-vineta
