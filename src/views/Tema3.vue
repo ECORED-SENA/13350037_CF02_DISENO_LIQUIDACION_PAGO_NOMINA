@@ -151,7 +151,7 @@
             .col
               h4.mb-4 Pódcast
               TarjetaAudio.color-acento-contenido.mb-4(
-                  texto="&quot;Descuentos y deducciones aplicables al salario&quot;"
+                  texto="Descuentos y deducciones aplicables al salario"
                   :audio="audio1"
                   @audio-hover="mostrarIndicadorTarjetaAudio = false"
                 )
@@ -392,7 +392,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t3/img29.png", alt="" style="width: 350px").m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
             .row(titulo="EPS").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Recibe los aportes a salud mediante la PILA. Antes del pago, se deben verificar la afiliación, el IBC, los días y las novedades.
             .row(titulo="Administradora de pensiones").ajuste-cajaAcordion.ajuste-vineta
@@ -405,7 +405,7 @@
               p.mb-3 Recibe el aporte parafiscal mediante la PILA cuando exista obligación. Se deben revisar la base y la exoneración aplicable.
       .row.align-items-center.mb-5
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-right")
             .row(titulo="ICBF").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Recibe el aporte parafiscal mediante la PILA cuando exista obligación. Se deben revisar la base y la exoneración aplicable.
             .row(titulo="DIAN").ajuste-cajaAcordion.ajuste-vineta

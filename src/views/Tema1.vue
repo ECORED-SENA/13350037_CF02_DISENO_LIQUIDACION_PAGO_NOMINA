@@ -145,7 +145,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t1/img17.png", alt="" style="width: 350px").m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
             .row(titulo="Identificación").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Se verifican los nombres, apellidos, tipo y número de documento, con base en el documento de identidad. Esta información identifica al beneficiario del pago y evita registros duplicados.
             .row(titulo="Vinculación").ajuste-cajaAcordion.ajuste-vineta
@@ -158,7 +158,7 @@
               p.mb-3 Se revisan el cargo, el área, la sede, el proyecto y el centro de costo. La estructura organizacional y los registros internos sustentan estos datos, que facilitan la distribución y contabilización de los gastos.
       .row.align-items-center.mb-5
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-right")
             .row(titulo="Seguridad social").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Se identifican la EPS, la administradora de pensiones, la ARL y la caja de compensación, mediante certificados y formularios de afiliación. Esta información determina las entidades receptoras de los aportes.
             .row(titulo="Información bancaria").ajuste-cajaAcordion.ajuste-vineta

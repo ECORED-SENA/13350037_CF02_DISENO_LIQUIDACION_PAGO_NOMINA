@@ -286,16 +286,16 @@ export default {
   referencias: [
     {
       referencia: 'Colpensiones. (2016, 14 de mayo). Historia laboral. ',
-      link: 'https://www.colpensiones.gov.co/preguntas-frecuentes/297/historia-laboral/',
+      link: '',
     },
     {
       referencia:
         'Colpensiones. (2026, 22 de enero). ¿Cómo aportar para mi pensión? ',
-      link: 'https://www.colpensiones.gov.co/educacion/publicaciones/2849/como-aportar-a-pension/',
+      link: '',
     },
     {
       referencia: 'Colpensiones. (2026, 20 de mayo). ¿Qué es el RPM? ',
-      link: 'https://www.colpensiones.gov.co/pensiones/publicaciones/120/que-es-el-rpm/',
+      link: '',
     },
     {
       referencia:
@@ -579,25 +579,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Ricardo Oliveros Zambrano',
-          cargo: 'Validador de recursos educativos digitales',
-          centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
-        },
-        {
           nombre: 'Aixa Natalia Sendoya Fernández',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Ricardo Oliveros Zambrano',
+          cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Anyerson Wilfredo Pizo Ossa',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

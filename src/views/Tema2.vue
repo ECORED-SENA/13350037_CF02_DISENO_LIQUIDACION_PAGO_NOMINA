@@ -148,7 +148,7 @@
       p.mb-5 Los siguientes porcentajes permiten diferenciar los principales recargos y el factor total aplicable sobre el valor de la hora ordinaria diurna:
       .bg___carrusel
         .px-5
-          SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5
+          SlyderF(columnas="col-lg-6 col-xl-4" data-aos="zoom-in").mb-5
             .tarjeta.color-acento-botones.p-4
               .row.justify-content-center.mb-3
                 .col-8
@@ -322,7 +322,7 @@
       p.mb-5 Los siguientes conceptos permiten diferenciar los derechos causados, las fórmulas generales y los controles requeridos para su liquidación o reconocimiento periódico:
       .bg___carrusel
         .px-5
-          SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5
+          SlyderF(columnas="col-lg-6 col-xl-4" data-aos="zoom-in").mb-5
             .tarjeta.color-acento-botones.p-4
               .row.justify-content-center.mb-3
                 .col-8
@@ -400,7 +400,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t2/img34.png", alt="" style="width: 350px").m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
             .row(titulo="Salario pendiente").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Se calcula mediante salario diario × días pendientes de pago. Se deben verificar la fecha efectiva de retiro y el último periodo pagado.
             .row(titulo="Prima de servicios").ajuste-cajaAcordion.ajuste-vineta
@@ -413,7 +413,7 @@
               p.mb-3 Se calculan mediante base de vacaciones × días causados ÷ 720. Se deben restar los periodos disfrutados o compensados.
       .row.align-items-center.mb-5
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-right")
             .row(titulo="Indemnización en contrato a término fijo").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Corresponde a los salarios del tiempo faltante para cumplir el plazo. Se debe verificar la fecha pactada de terminación.
             .row(titulo="Indemnización en contrato por obra o labor").ajuste-cajaAcordion.ajuste-vineta

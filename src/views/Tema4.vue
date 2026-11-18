@@ -28,7 +28,7 @@
           p.mb-5 El valor aprobado debe coincidir con el monto que posteriormente se ordenará pagar. El Código Sustantivo del Trabajo establece que el salario en dinero debe pagarse por periodos iguales y vencidos, mientras que las horas extras y los recargos nocturnos deben pagarse con el salario del periodo en que se causaron o, a más tardar, con el salario del periodo siguiente (Código Sustantivo del Trabajo, 1950, art. 134). Los siguientes controles permiten comprobar la información antes de autorizar el pago definitivo:
           .bg___carrusel
             .px-5
-              SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5
+              SlyderF(columnas="col-lg-6 col-xl-4" data-aos="zoom-in").mb-5
                 .tarjeta.color-acento-botones.p-4
                   .row.justify-content-center.mb-3
                     .col-8
@@ -492,7 +492,7 @@
             h4 Ajustes, soportes y conservación de información
             p.mb-0 Se invita a leer el documento “#[b Anexo 1]”, donde se aborda la gestión de #[b ajustes, correcciones y conservación de la información de nómina], incluyendo errores y diferencias de pago, reliquidaciones, retroactivos, trazabilidad, archivo documental y copias de seguridad.
           .col-xl-2
-            a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexos/Anexo_01_Ajustes_soportes_conservacion_informacion.pdf')" target="_blank" type="application/pdf")
+            a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_01_Ajustes_soportes_conservacion_informacion.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-file-download
 
